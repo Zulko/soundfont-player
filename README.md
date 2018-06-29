@@ -246,7 +246,7 @@ You can download the names of the instruments as a .json file:
 Or require them:
 
 ```js
-var fluidNames = require('soundfont-player/names/fuildR3.json')
+var fluidNames = require('soundfont-player/names/fluidR3.json')
 var musyngNames = require('soundfont-player/names/musyngkite.json')
 ```
 
